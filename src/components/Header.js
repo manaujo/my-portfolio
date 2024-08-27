@@ -1,10 +1,13 @@
 import React from 'react';
+import profilePic from './assets/profile.jpg';
+
 
 function Header() {
   return (
     <header>
       <h1>Márcio Costa Araújo</h1>
-      <p>Back-End Developer | Go (Golang) Specialist</p>
+      <img src={profilePic} alt="Márcio Araújo" style={{ width: '150px', borderRadius: '50%' }} />
+      <p>Software Developer | Go (Golang)</p>
       <nav>
         <a href="https://www.linkedin.com/in/marcio-araujo-35b71b233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
         <a href="https://github.com/manaujo">GitHub</a>
@@ -15,3 +18,4 @@ function Header() {
 }
 
 export default Header;
+

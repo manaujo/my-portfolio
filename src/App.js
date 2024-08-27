@@ -28,7 +28,7 @@ function App() {
       <section id="about">
         <h2>Sobre Mim</h2>
         <p>
-          Sou um desenvolvedor back-end especializado em Go (Golang) com experiência
+          Sou um Software Developer especializado em Go (Golang) com experiência
           em criar aplicações robustas e escaláveis. Tenho cursos de Java, Golang,
           Javascript, React, Node.js e React Native, e sou apaixonado por resolver
           problemas complexos e otimizar o desempenho de sistemas.

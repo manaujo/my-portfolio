@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Skills() {
-  const skills = ["Go", "Java", "Javascript", "React", "Node.js", "React Native", "SQL", "Git",];
+  const skills = ["Go", "Java", "JavaScript", "React", "Node.js", "React Native", "Git",];
 
   return (
     <section id="skills">

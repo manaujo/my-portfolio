@@ -6,20 +6,20 @@ body {
 }
 
 header {
-  background-color: #333;
-  color: #fff;
+  background-color: #1877F2;
+  color: #F5F5F5 ;
   padding: 1rem;
   text-align: center;
 }
 
 header nav a {
-  color: #fff;
+  color: #F5F5F5 ;
   margin: 0 10px;
   text-decoration: none;
 }
 
 .project-card {
-  border: 1px solid #ddd;
+  border: 1px solid #F5F5F5 ;
   padding: 1rem;
   margin: 1rem 0;
 }
@@ -29,6 +29,6 @@ section {
 }
 
 h2 {
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #F5F5F5 ;
   padding-bottom: 0.5rem;
 }

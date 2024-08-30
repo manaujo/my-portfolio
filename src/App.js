@@ -8,18 +8,19 @@ import Education from './components/Education';
 function App() {
   const projects = [
     {
-      title: "API RESTful para Gerenciamento de Tarefas",
-      description: "Uma API completa para gerenciamento de tarefas, com autenticação JWT, CRUD para usuários e tarefas, e integração com PostgreSQL.",
-      technologies: ["Go", "Gin", "GORM", "PostgreSQL", "Docker"],
-      link: "#"
+      title: "Projeto Pizzaria",
+      description: "Projeto de uma Pizzaria usando NodeJS para backend + (banco de dados), ReactJS para frontend e React Native para desenvolver aplicativos Android e iOS.",
+
+      technologies: ["JavaScript", "React", "Node.Js", "React Native", "TypeScript."],
+      link: "https://github.com/manaujo"
     },
     {
-      title: "Serviço de Chat em Tempo Real",
-      description: "Um servidor de chat em tempo real utilizando WebSockets, permitindo comunicação instantânea entre múltiplos clientes.",
-      technologies: ["Go", "Gorilla WebSocket", "Redis", "Docker"],
-      link: "#"
+      title: "Desenvolvimento de uma aplicação de rede social",
+      description: "Desenvolver uma rede social utilizando a linguagem Go, Utilizando Go para desenvolvimento front-end e back-end. usando concorrência, Construindo uma aplicação de linha de comando, API altamente robusta e escalável utlizando boas práticas.",
+      technologies: ["Go", "Concorrência", "API", "Banco de Dados."],
+      link: "https://github.com/manaujo"
     },
-    // Adicione outros projetos aqui
+
   ];
 
   return (
@@ -28,10 +29,10 @@ function App() {
       <section id="about">
         <h2>Sobre Mim</h2>
         <p>
-          Sou um Software Developer especializado em Go (Golang) com experiência
-          em criar aplicações robustas e escaláveis. Tenho cursos de Java, Golang,
-          Javascript, React, Node.js e React Native, e sou apaixonado por resolver
-          problemas complexos e otimizar o desempenho de sistemas.
+        Sou desenvolvedor de software em JavaScript, com experiência em criar aplicações utilizando React, 
+        React Native e Node.js. Além disso, possuo uma base sólida em Java, Golang e outras tecnologias como Docker, MySQL, e APIs,
+         que estou constantemente aprimorando por meio de cursos e estudos. Minha paixão é resolver problemas complexos e otimizar 
+         o desempenho de sistemas, buscando sempre a melhor solução para os desafios que surgem no desenvolvimento de software.
         </p>
       </section>
       <section id="projects">

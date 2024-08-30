@@ -7,7 +7,7 @@ function Header() {
     <header>
       <h1>Márcio Costa Araújo</h1>
       <img src={profilePic} alt="Márcio Araújo" style={{ width: '150px', borderRadius: '50%' }} />
-      <p>Software Developer | Go (Golang)</p>
+      <p> Desenvolvedor de Software | JavaScript | React | React Native | Java | Go </p>
       <nav>
         <a href="https://www.linkedin.com/in/marcio-araujo-35b71b233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
         <a href="https://github.com/manaujo">GitHub</a>
